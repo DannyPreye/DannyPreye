@@ -9,7 +9,7 @@ Am a knowledgeable Front End Developer adept at creating successful websites tha
 * 🌍  I'm based in Bayelsa, Nigeria
 * ✉️  You can contact me at [olawoyindaniel95@gmail.com](mailto:olawoyindaniel95@gmail.com)
 * 🚀  I'm currently working on [Dyrics](https://dyrics.vercel.app/)
-* 🧠  I'm learning Typescript
+* 🧠  I'm learning Nodejs
 
 ### Skills
 
