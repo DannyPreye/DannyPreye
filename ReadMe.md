@@ -9,7 +9,7 @@ Am a knowledgeable Front End Developer adept at creating successful websites tha
 * 🌍  I'm based in Bayelsa
 * ✉️  You can contact me at [olawoyindaniel95@gmail.com](mailto:olawoyindaniel95@gmail.com)
 * 🚀  I'm currently working on [Dyrics](http://dryrics.vercel.app)
-* 🧠  I'm learning Typescript
+* 🧠  I'm learning flutter
 
 ### Skills
 
