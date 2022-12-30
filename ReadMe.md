@@ -6,9 +6,9 @@ Front-end Developer
 
 Am a knowledgeable Front End Developer adept at creating successful websites that meet customer needs. Specializing in collaborating with customers to gather requirements, produce plans and improve designs for usability and functionality. Fully proficient in HTML, CSS, and Javascript frameworks like React.js and Next.js.
 
-* 🌍  I'm based in Bayelsa
+* 🌍  I'm based in  Bayelsa, Nigeria
 * ✉️  You can contact me at [olawoyindaniel95@gmail.com](mailto:olawoyindaniel95@gmail.com)
-* 🚀  I'm currently working on [Dyrics](http://dryrics.vercel.app)
+* 🚀  I'm currently working on [SMARK](http://smack.vercel.app)
 * 🧠  I'm learning flutter
 
 ### Skills
