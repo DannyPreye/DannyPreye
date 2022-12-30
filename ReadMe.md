@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olawoyin Daniel
 =======================================================================================================================================
 
-Front-end Developer
+Front-end Developer | TypeScript | Javascript | React.js | Next.js
 -------------------
 
 Am a knowledgeable Front End Developer adept at creating successful websites that meet customer needs. Specializing in collaborating with customers to gather requirements, produce plans and improve designs for usability and functionality. Fully proficient in HTML, CSS, and Javascript frameworks like React.js and Next.js.
