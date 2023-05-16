@@ -7,8 +7,15 @@ Front-end Developer | TypeScript | Javascript | React.js | Next.js
 
 
 
+Hello! I'm an experienced Frontend Developer with expertise in Next.js, React.js, and TypeScript. I specialize in building interactive and responsive web applications that deliver exceptional user experiences.
 
-Am a knowledgeable Front End Developer adept at creating successful websites that meet customer needs. Specializing in collaborating with customers to gather requirements, produce plans and improve designs for usability and functionality. Fully proficient in HTML, CSS, and Javascript frameworks like React.js and Next.js.
+With a strong background in Node.js, Express.js, and MongoDB, I am adept at developing full-stack solutions, ensuring seamless integration between frontend and backend components. I believe in creating clean, maintainable code and following best practices to optimize performance and scalability.
+
+In addition to my frontend skills, I am also proficient in React Native, enabling me to develop cross-platform mobile applications that provide a native-like experience to users.
+
+I have a passion for staying up to date with the latest technologies and trends in the industry. I enjoy collaborating with teams to brainstorm innovative ideas and finding creative solutions to complex problems.
+
+If you're looking for a frontend developer who can bring your ideas to life and deliver high-quality, user-centric applications, feel free to reach out to me. I'm excited to contribute my skills and expertise to your projects.
 
 * 🌍  I'm based in  Bayelsa, Nigeria
 * ✉️  You can contact me at [olawoyindaniel95@gmail.com](mailto:olawoyindaniel95@gmail.com)
