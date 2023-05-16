@@ -4,12 +4,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer | TypeScript | Javascript | React.js | Next.js
 -------------------
 
+
+
+
+
 Am a knowledgeable Front End Developer adept at creating successful websites that meet customer needs. Specializing in collaborating with customers to gather requirements, produce plans and improve designs for usability and functionality. Fully proficient in HTML, CSS, and Javascript frameworks like React.js and Next.js.
 
 * 🌍  I'm based in  Bayelsa, Nigeria
 * ✉️  You can contact me at [olawoyindaniel95@gmail.com](mailto:olawoyindaniel95@gmail.com)
 * 🚀  I'm currently working on [SMARK](http://smack.vercel.app)
 * 🧠  I'm learning flutter
+* 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DannyPreye&label=Profile%20views&color=0e75b6&style=flat" alt="DannyPreye" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DannyPreye" alt="DannyPreye" /></a> </p>
 
 ### Skills
 
@@ -37,6 +46,7 @@ Am a knowledgeable Front End Developer adept at creating successful websites tha
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
 
 
 ### Socials
