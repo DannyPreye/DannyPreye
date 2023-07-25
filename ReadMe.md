@@ -19,7 +19,7 @@ If you're looking for a frontend developer who can bring your ideas to life and 
 
 * 🌍  I'm based in  Bayelsa, Nigeria
 * ✉️  You can contact me at [olawoyindaniel95@gmail.com](mailto:olawoyindaniel95@gmail.com)
-* 🚀  I'm currently working on [SMARK](http://smack.vercel.app)
+* 🚀  I'm currently working on [Digital Gadgets](https://digital-gadget.vercel.app/)
 * 🧠  I'm learning flutter
 * 
 
