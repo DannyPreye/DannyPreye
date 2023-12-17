@@ -5,17 +5,13 @@ Front-end Developer | TypeScript | Javascript | React.js | Next.js
 -------------------
 
 
+Hello! I'm a versatile Full Stack Developer with a strong emphasis on Frontend technologies, specializing in Next.js, React.js, and TypeScript. Proficient in Node.js, Express.js, MongoDB, Prisma, Nest.js, and GraphQL, I excel in developing seamless, full-stack solutions that prioritize exceptional user experiences.
 
+My expertise extends to crafting interactive and responsive web applications, ensuring optimal performance and scalability through clean, maintainable code.
 
-Hello! I'm an experienced Frontend Developer with expertise in Next.js, React.js, and TypeScript. I specialize in building interactive and responsive web applications that deliver exceptional user experiences.
+In addition to technical proficiency, I stay abreast of industry trends and emerging technologies, fostering a passion for innovation. Collaborative by nature, I thrive in team environments, contributing creative solutions to complex challenges.
 
-With a strong background in Node.js, Express.js, and MongoDB, I am adept at developing full-stack solutions, ensuring seamless integration between frontend and backend components. I believe in creating clean, maintainable code and following best practices to optimize performance and scalability.
-
-In addition to my frontend skills, I am also proficient in React Native, enabling me to develop cross-platform mobile applications that provide a native-like experience to users.
-
-I have a passion for staying up to date with the latest technologies and trends in the industry. I enjoy collaborating with teams to brainstorm innovative ideas and finding creative solutions to complex problems.
-
-If you're looking for a frontend developer who can bring your ideas to life and deliver high-quality, user-centric applications, feel free to reach out to me. I'm excited to contribute my skills and expertise to your projects.
+If you're seeking a Full Stack Developer with a frontend focus, armed with skills in Next.js, React, TypeScript, and a comprehensive stack including Node.js, Express, MongoDB, Prisma, Nest.js, and GraphQL, I'm eager to apply my expertise to elevate your projects. Feel free to connect—I look forward to discussing how I can contribute to your team's success.
 
 * 🌍  I'm based in  Bayelsa, Nigeria
 * ✉️  You can contact me at [olawoyindaniel95@gmail.com](mailto:olawoyindaniel95@gmail.com)
