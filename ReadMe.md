@@ -16,7 +16,7 @@ If you're seeking a Full Stack Developer with a frontend focus, armed with skill
 * 🌍  I'm based in  Bayelsa, Nigeria
 * ✉️  You can contact me at [olawoyindaniel95@gmail.com](mailto:olawoyindaniel95@gmail.com)
 * 🚀  I'm currently working on [Digital Gadgets](https://digital-gadget.vercel.app/)
-* 🧠  I'm learning flutter
+* 🧠  I'm learning Rust
 * 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DannyPreye&label=Profile%20views&color=0e75b6&style=flat" alt="DannyPreye" /> </p>
