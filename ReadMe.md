@@ -26,11 +26,11 @@ I'm not just a developer; I'm a digital architect who transforms complex challen
 ### 🌟 Breakthrough Projects
 
 #### 1. Resume Craft 🛒
-- **Impact**: Revolutionary resume creation for job application
+- **Impact**: Revolutionary resume creation for job application and create rich content by providing a topic
+- **Note**: The backend is currenly hosted on render(free plan). it tends to be very slow in responding if visiting for the first time
 - **Technologies**: Next.js, TypeScript, strapi
-- **Achievements**: 
-  - Seamless user experience
-- [🔗 Live Demo](https://digital-gadget.vercel.app/)
+  - 
+- [🔗 Live Demo](https://articular.vercel.app/dashboard/resume/create)
 
 #### 2. Personal Portfolio 🖥️
 - **Showcase**: Cutting-edge responsive design
